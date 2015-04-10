@@ -26,7 +26,7 @@
 * место для хранения проектов (https://github.com/gagarin-vostok)
 
 Ссылки
-======
+------
 
 * Проект Гагарин 3D http://gagarin3d.ru
 * Flightgear: Vostok-1 (http://wiki.flightgear.org/Vostok-1)
