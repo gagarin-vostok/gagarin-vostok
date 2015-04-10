@@ -29,3 +29,10 @@
 * Flightgear: Vostok-1 (http://wiki.flightgear.org/Vostok-1)
 * упрощенная 3д модель корабля Восток http://www.thingiverse.com/thing:752765
 * V-REP симуляция https://github.com/nemilya/gagarin_vostok/tree/master/v-rep
+
+
+Публикации
+==========
+
+* http://habrahabr.ru/company/makeitlab/blog/255451/
+
